@@ -22,4 +22,54 @@ li {
 }
 li a {
   display: block;
+ color: darkblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+   color: red;
+   background:aquamarine;
+}
+#aguia {
+  width: 15%;
+}
+.caixaAguia {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 155px;
+  background: bottom);
+  margin: 20px;
+  border-width: 20px;
+  border-color: blueviolet;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.rodape {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 35px;
+   background: cyan;
+   color: chocolate;
+   display: flex;
+   justify-content: center;
+}
+.conteudo {
+   position: absolute;
+   top: 45px;
+}
+#aguia {
+   width: 100%;
+}
+.logoGastao {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
 }
