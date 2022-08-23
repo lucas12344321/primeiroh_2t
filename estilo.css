@@ -55,7 +55,7 @@ li a:hover {
    width: 100%;
    height: 35px;
    background: cyan;
-   color: chocolate;
+   color: black;
    display: flex;
    justify-content: center;
 }
