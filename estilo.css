@@ -1,5 +1,5 @@
 body{
-  background: purple;
+  background: darkmagenta;
 }
 h1 {
   text-align: center;
@@ -8,7 +8,7 @@ h1 {
   position: relative;
   width: 100%;
   height: 100px;
-  background: yellowgreen;
+  background: snow;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 nav ul {
@@ -29,7 +29,7 @@ li a {
 }
 li a:hover {
    color: red;
-   background:aquamarine;
+   background: blanchedalmond;
 }
 #aguia {
   width: 15%;
@@ -40,7 +40,7 @@ li a:hover {
   left: 0;
   width: 90%;
   height: 155px;
-  background: bottom);
+  background: bottom;
   margin: 20px;
   border-width: 20px;
   border-color: blueviolet;
