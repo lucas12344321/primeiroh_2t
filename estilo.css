@@ -25,7 +25,7 @@ h1 {
 }
 .caixa3 {
   position: absolute;
-  background: rgb(99, 153, 28);
+  background: blue;
   width: 100px;
   height: 100px;
   color: white;
